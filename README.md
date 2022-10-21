@@ -32,7 +32,7 @@ Le principe est simple et pourra facilement se compléxifier en ajoutant :
 
 ## Pour commencer
 
-[don't click](https://www.youtube.com/watch?v=svUtlHC2ph4)
+[don't click](https://youtu.be/AWM5ZNdWlqw)
 
 Pour commencer ce travail, commencez par cloner ce dépot.
 
